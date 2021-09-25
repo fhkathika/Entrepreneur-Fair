@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Bibi Russell",
+        "profession": "founder of bibi productions",
+        "born": 1950,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Bibi-russell-woman-entrepreneur.jpg",
+        "education": "The London College of fashion",
+        "salary": 50000
+    },
+    {
+        "name": "Ivy Huq Russell",
+        "profession": "CEO & Founder, Mayalogy Ltd.",
+        "born": 1980,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Ivy-Huq-Russell-woman-entrepreneur.jpg",
+        "education": "MSc. in Finance and Economics at Warwick Business School",
+        "salary": 45000
+    },
+    {
+        "name": "Taslima Miji",
+        "profession": " CEO of Techmania",
+        "born": 1984,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Taslima-Miji-woman-entrepreneur.jpg",
+        "education": "MSc. at Dhaka University",
+        "salary": 49000
+    },
+    {
+        "name": " Sabila Enun",
+        "profession": "campaigner for women empowerment",
+        "born": 1960,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Sabila-Enun-woman-entrepreneur.jpg",
+        "education": "BSc. at Southeast University",
+        "salary": 51000
+    },
+    {
+        "name": "Selima Ahmed",
+        "profession": " founder of the Bangladesh Women Chamber of Commerce and Industry (BWCCI)",
+        "born": 1980,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Selima-Ahmad-woman-entrepreneur.jpg",
+        "education": "University of Dhaka",
+        "salary": 60000
+    },
+    {
+        "name": "Sabrina Islam",
+        "profession": "the president of the Women Entrepreneurs Association (WEA) Bangladesh",
+        "born": 1965,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Sabrina-Islam-woman-entrepreneur.jpg",
+        "education": " LLB (Hons) and MBA degrees from the University of Dhaka",
+        "salary": 76000
+    },
+    {
+        "name": "Nadia Binte Amin",
+        "profession": "works with UNICEF, UNDP, foreign NGOs",
+        "born": 1980,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Nadia-Binte-Amin-woman-entrepreneur%EF%BB%BF.jpg",
+        "Education": "University of Dhaka",
+        "salary": 56000
+    },
+    {
+        "name": "Samira Zuberi Himika",
+        "profession": " founder & Managing Director of ‘team engine",
+        "born": 1975,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/%EF%BB%BFSamira-Zuberi-Himika-woman-entrepreneur.jpg",
+        "education": "MSc. at Independent University Bangladesh",
+        "salary": 63000
+    },
+    {
+        "name": "Selina Qadarr",
+        "profession": "Agriconcern, an agriculture-based business, in the year 1985.",
+        "born": 1960,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Selina-Qadarr-woman-entrepreneur.jpg",
+        "education": "MSc. in Finance and Economics at Warwick Business School",
+        "salary": 65000
+    },
+    {
+        "name": "Rubaba Dowla",
+        "profession": "founder of Pulse Healthcare Service",
+        "born": 1970,
+        "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Rubaba-Dowla.jpg",
+        "education": "MBA advertising",
+        "salary": 57000
+    }
+]
