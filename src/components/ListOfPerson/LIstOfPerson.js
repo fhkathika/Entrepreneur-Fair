@@ -16,12 +16,12 @@ const LIstOfPerson = (props) => {
 
     return (
         <div className="listed-people-cart">
-            <h1>list cart</h1>
-            <h2 >total staller :{ staller.length} </h2>
-            <h1>total Paid Amount :{totalPaidAmount} </h1>
+            <h1 className="cart-header">Staller List</h1>
+            <h4 className="text-style" >total staller :{ staller.length} </h4>
+            <h3 className="text-style">total Paid Amount :{totalPaidAmount} </h3>
            
          <ul>
-         {staller.map(nameList=> (<li key={nameList.id}>{nameList.name}</li>))}
+         {staller.map(nameList=> (<li  className="staller-name" key={nameList.id}>{nameList.name}</li>))}
          </ul>
        
             
