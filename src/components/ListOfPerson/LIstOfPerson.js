@@ -1,6 +1,5 @@
 import React from 'react';
 import './LIstOfPerson..css'
-
 const LIstOfPerson = (props) => {
     // total Booked stall amount
     const {staller}=props
@@ -17,7 +16,7 @@ const LIstOfPerson = (props) => {
             <h4 className="text-style" >total staller :{ staller.length} </h4>
             <h3 className="text-style">total Paid Amount :{totalPaidAmount} </h3>
            
-         <ul className='list'>
+        <ul className='list'>
          {staller.map(nameList=> (<li  className="staller-name" key={nameList.id}>{nameList.name}</li>))}
          </ul>
        
