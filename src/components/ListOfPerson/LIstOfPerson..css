@@ -3,9 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&family=Roboto:ital,wght@0,300;1,500&display=swap');
 .listed-people-cart{
+    padding: 20px;
    background-color: rgb(231, 204, 136);
     border: 1px solid grey;
     border-radius: 5px;
+
  
 }
 
@@ -20,10 +22,16 @@
     color: rgb(204, 32, 32);
     text-decoration-style: double;
 }
-.staller-name{
+ul.list{
+    list-style-type: none;
+}
+li.staller-name{
     font-family: 'PT Serif', serif;
     font-family: 'Roboto', sans-serif;
     text-decoration-style: none;
+    margin-right:20px ;
     color: rgb(62, 32, 2);
+    border-bottom: 1px solid olive;
+
     
 }

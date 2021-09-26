@@ -90,7 +90,7 @@
         "stall_Fee": 7000
     },
     {
-        "id": 9,
+        "id": 11,
         "name": "Nabila Nowrin",
         "profession": "Co-Founder & Managing Director, MOAR",
         "born": 1960,
@@ -99,7 +99,7 @@
         "stall_Fee": 3500
     },
     {
-        "id": 10,
+        "id": 12,
         "name": "Armin Khan",
         "profession": "Founder, Romoni",
         "born": 1980,
@@ -108,7 +108,7 @@
         "stall_Fee": 7000
     },
     {
-        "id": 9,
+        "id": 13,
         "name": "Breity Sabrin",
         "profession": "Co-Founder and CEO, Just Storys Ltd.",
         "born": 1980,
@@ -117,7 +117,7 @@
         "stall_Fee": 3500
     },
     {
-        "id": 10,
+        "id": 14,
         "name": "Marufa Jahan",
         "profession": "Founder, Abaya & Gown",
         "born": 1970,
@@ -126,7 +126,7 @@
         "stall_Fee": 7000
     },
     {
-        "id": 9,
+        "id": 15,
         "name": "Nusrat Rouf",
         "profession": "Chief Technology Officer and among one of three co-founders of Biomasys",
         "born": 1982,
@@ -135,7 +135,7 @@
         "stall_Fee": 3500
     },
     {
-        "id": 10,
+        "id": 16,
         "name": " Tamanna Ahmed",
         "profession": "Co-Founder, PRISM and Founder, UC Events",
         "born": 1975,
@@ -144,7 +144,7 @@
         "stall_Fee": 7000
     },
     {
-        "id": 9,
+        "id": 17,
         "name": "Tahmina Akter",
         "profession": "owner of Tami's Fashion BD",
         "born": 1980,
@@ -153,7 +153,7 @@
         "stall_Fee": 3500
     },
     {
-        "id": 10,
+        "id": 18,
         "name": "Nazma Khatun",
         "profession": "(Associate Professor). Department of Clinical Psychology.",
         "born": 1970,
@@ -162,7 +162,7 @@
         "stall_Fee": 7000
     },
     {
-        "id": 9,
+        "id": 19,
         "name": "Luna Shamsuddoha",
         "profession": "chairman of the software firm Dohatec",
         "born": 1953,
@@ -171,7 +171,7 @@
         "stall_Fee": 3500
     },
     {
-        "id": 10,
+        "id": 20,
         "name": "Samia Zaman",
         "profession": "founder of Pulse Healthcare Service",
         "born": 1971,
@@ -180,10 +180,10 @@
         "stall_Fee": 3500
     },
     {
-        "id": 10,
+        "id":21,
         "name": "Rubana Huq",
         "profession": "founder of Pulse Healthcare Service",
-        "born": 1964,
+        "born": 1984,
         "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rubana_Huq_at_the_21st_Year_Celebration_Ceremony_of_TechnoVista_Limited.jpg",
         "education": "Jadavpur University ",
         "stall_Fee": 7000

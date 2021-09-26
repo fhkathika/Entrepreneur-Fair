@@ -1,16 +1,14 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import './LIstOfPerson..css'
 
 const LIstOfPerson = (props) => {
-    // total Booked stall and amount
+    // total Booked stall amount
     const {staller}=props
-    // console.log(props)
 
     let totalPaidAmount=0;
   
     for (const stall of staller){
-       
-    //    console.log(stall.name)
+
         totalPaidAmount=totalPaidAmount +stall.stall_Fee
     }
 
@@ -20,7 +18,7 @@ const LIstOfPerson = (props) => {
             <h4 className="text-style" >total staller :{ staller.length} </h4>
             <h3 className="text-style">total Paid Amount :{totalPaidAmount} </h3>
            
-         <ul>
+         <ul className='list'>
          {staller.map(nameList=> (<li  className="staller-name" key={nameList.id}>{nameList.name}</li>))}
          </ul>
        

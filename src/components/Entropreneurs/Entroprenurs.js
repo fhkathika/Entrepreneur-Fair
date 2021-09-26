@@ -14,7 +14,7 @@ const Entroprenurs = () => {
         .then(res => res.json())
         .then(data => setWomens(data))
     },[])
-//  booking button funtion to add booking
+//  booking-button funtion to add booking
     const handleStallBookingFee=(bookingDetail)=>{
         const newStaller=[...staller,bookingDetail]
         const existStaller=staller.find(staller=> staller.id=== bookingDetail.id)
