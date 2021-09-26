@@ -88,5 +88,104 @@
         "img": "https://www.businesshaunt.com/wp-content/uploads/2019/01/Rubaba-Dowla.jpg",
         "education": "MBA advertising",
         "stall_Fee": 7000
+    },
+    {
+        "id": 9,
+        "name": "Nabila Nowrin",
+        "profession": "Co-Founder & Managing Director, MOAR",
+        "born": 1960,
+        "img": "https://i1.wp.com/bizbd.net/wp-content/uploads/2020/08/professional-photo-nabila-n-2020-1.jpg?w=399&ssl=1",
+        "education": "MSc. in Finance and Economics at Warwick Business School",
+        "stall_Fee": 3500
+    },
+    {
+        "id": 10,
+        "name": "Armin Khan",
+        "profession": "Founder, Romoni",
+        "born": 1980,
+        "img": "https://i0.wp.com/bizbd.net/wp-content/uploads/2020/08/104839290_592971321614530_164251763898315098_n.jpg?w=403&ssl=1",
+        "education": "MBA advertising",
+        "stall_Fee": 7000
+    },
+    {
+        "id": 9,
+        "name": "Breity Sabrin",
+        "profession": "Co-Founder and CEO, Just Storys Ltd.",
+        "born": 1980,
+        "img": "https://i0.wp.com/bizbd.net/wp-content/uploads/2020/08/breity_juststorys.jpg?resize=206%2C250&ssl=1",
+        "education": "MSc. in Finance and Economics at Warwick Business School",
+        "stall_Fee": 3500
+    },
+    {
+        "id": 10,
+        "name": "Marufa Jahan",
+        "profession": "Founder, Abaya & Gown",
+        "born": 1970,
+        "img": "https://i1.wp.com/bizbd.net/wp-content/uploads/2020/08/20200725_172340-1.jpg?w=768&ssl=1",
+        "education": "MBA advertising",
+        "stall_Fee": 7000
+    },
+    {
+        "id": 9,
+        "name": "Nusrat Rouf",
+        "profession": "Chief Technology Officer and among one of three co-founders of Biomasys",
+        "born": 1982,
+        "img": "https://i2.wp.com/bizbd.net/wp-content/uploads/2020/08/17917999_10155172223663607_200858868577172787_o.jpg?w=634&ssl=1",
+        "education": " Master’s in Biotechnology & Enterprise from the University of Manchester in the United Kingdom",
+        "stall_Fee": 3500
+    },
+    {
+        "id": 10,
+        "name": " Tamanna Ahmed",
+        "profession": "Co-Founder, PRISM and Founder, UC Events",
+        "born": 1975,
+        "img": "https://media-exp1.licdn.com/dms/image/C5103AQEao9T0jYr8AQ/profile-displayphoto-shrink_800_800/0/1516681235513?e=1638403200&v=beta&t=cUKIsGM7sMAvQ6Ys2Utk5x1luIx9nMG7G7Y6ghFipFc",
+        "education": "MBA advertising",
+        "stall_Fee": 7000
+    },
+    {
+        "id": 9,
+        "name": "Tahmina Akter",
+        "profession": "owner of Tami's Fashion BD",
+        "born": 1980,
+        "img": "https://mir-s3-cdn-cf.behance.net/user/276/77479b19331791.580c4d45bd76a.jpeg",
+        "education": "MSc. in Finance and Economics at Warwick Business School",
+        "stall_Fee": 3500
+    },
+    {
+        "id": 10,
+        "name": "Nazma Khatun",
+        "profession": "(Associate Professor). Department of Clinical Psychology.",
+        "born": 1970,
+        "img": "https://pbs.twimg.com/profile_images/1234841595217940495/CroHqSTy_400x400.jpg",
+        "education": "MSc at Clinical Psychology",
+        "stall_Fee": 7000
+    },
+    {
+        "id": 9,
+        "name": "Luna Shamsuddoha",
+        "profession": "chairman of the software firm Dohatec",
+        "born": 1953,
+        "img": "https://alc.bdosn.org/wp-content/uploads/2020/12/luna-1.jpg",
+        "education": " Viqarunnisa Noon School & College, Holy Cross College, Dhaka",
+        "stall_Fee": 3500
+    },
+    {
+        "id": 10,
+        "name": "Samia Zaman",
+        "profession": "founder of Pulse Healthcare Service",
+        "born": 1971,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Samia_Zaman_%28cropped%29.jpg/800px-Samia_Zaman_%28cropped%29.jpg",
+        "education": "MBA advertising",
+        "stall_Fee": 3500
+    },
+    {
+        "id": 10,
+        "name": "Rubana Huq",
+        "profession": "founder of Pulse Healthcare Service",
+        "born": 1964,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rubana_Huq_at_the_21st_Year_Celebration_Ceremony_of_TechnoVista_Limited.jpg",
+        "education": "Jadavpur University ",
+        "stall_Fee": 7000
     }
 ]

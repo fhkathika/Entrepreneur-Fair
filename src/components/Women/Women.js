@@ -1,7 +1,7 @@
 import React from 'react';
 import './Women.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Card,Button} from 'react-bootstrap';
+import { Card} from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBook } from '@fortawesome/free-solid-svg-icons'
 
@@ -14,7 +14,7 @@ const Women = (props) => {
     return (
         <div className="women-style">
             {/* add card */}
-            <Card  className="cardStyle" style={{ width: '18rem', height:'35rem', backgroundColor:'lightyellow' }}>
+            <Card  className="cardStyle" style={{ width: '18rem', height:'38rem', backgroundColor:'lightyellow' }}>
 <Card.Body>
 <Card.Img src={img}/>
   <Card.Title className="card-name">{name}</Card.Title>

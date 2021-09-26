@@ -14,31 +14,24 @@ const Entroprenurs = () => {
         .then(res => res.json())
         .then(data => setWomens(data))
     },[])
-
+//  booking button funtion to add booking
     const handleStallBookingFee=(bookingDetail)=>{
         const newStaller=[...staller,bookingDetail]
-       
         const existStaller=staller.find(staller=> staller.id=== bookingDetail.id)
-        // const existStallerName=staller.find(staller=> staller.name=== bookingDetail.name)
       if(existStaller ){
 console.log('already exists',existStaller.name)
       }
       else{
         setStaller(newStaller)
-       
-     
-      }
-  
-
-    }
+     }
+  }
     return (
         <div className="bodyPart">
             <h1 className="body-title">নারী উদ্যোক্তা</h1>
            <div className="entroprenur">
+             {/* staller list div */}
            <div className="addedPeopleList">
-            
             <ListOfPerson staller={staller} ></ListOfPerson>
-         
          </div>
            <div className="entroprenurs-card">
             {
