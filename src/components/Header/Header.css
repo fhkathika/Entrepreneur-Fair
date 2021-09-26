@@ -1,0 +1,20 @@
+.header{
+    background-color: gainsboro;
+    border-bottom:3px solid black ;
+
+}
+.header-title{
+   
+    font-style: italic;
+    font-weight: 700;
+    color: firebrick;
+    align-items: center;
+    padding-top: 2%;   
+ }
+ .budget{
+     font-style: oblique;
+     font-weight: 600;
+     padding-bottom: 2%;
+     padding-top: 2%;
+     color: rgb(44, 37, 37);
+ }

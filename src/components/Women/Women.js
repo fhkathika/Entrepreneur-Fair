@@ -4,8 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card,Button} from 'react-bootstrap';
 
 const Women = (props) => {
-    console.log(props.women)
-    const {name,education,profession,born,img,salary}=props.women
+    // console.log(props.women)
+    // destructure entroprenuer detail
+    const {id,name,education,profession,born,img,stall_Fee}=props.women
+   
     return (
         <div className="women-style">
             <Card style={{ width: '18rem', height:'36rem' }}>
@@ -15,8 +17,8 @@ const Women = (props) => {
   <Card.Text>{profession}</Card.Text>
   <Card.Text>{education}</Card.Text>
   <Card.Text>{born}</Card.Text>
-  <Card.Text>{salary}</Card.Text>
-<Button variant="primary">Add</Button>
+  <Card.Text>{stall_Fee}</Card.Text>
+<Button onClick={()=>props.handleStallBookingFee(props.women)} >Add</Button>
 </Card.Body>
 </Card>
             
