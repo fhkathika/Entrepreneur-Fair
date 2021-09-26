@@ -6,8 +6,7 @@ const LIstOfPerson = (props) => {
     const {staller}=props
 
     let totalPaidAmount=0;
-  
-    for (const stall of staller){
+  for (const stall of staller){
 
         totalPaidAmount=totalPaidAmount +stall.stall_Fee
     }
