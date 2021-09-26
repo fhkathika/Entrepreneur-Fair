@@ -13,6 +13,6 @@ About My Website:
 
 =>Budget of the fair is 1,000000 and every stall fee is between 3500-7000tk
 
-=>Those who are interested to join and book a stall..she will also a part of our উদ্যোক্তা মেলা - 2021 website with her photo as well as other information
+=>Those who are interested to join and book a stall..she will also be a part of our উদ্যোক্তা মেলা - 2021 website with her photo as well as other information
 
-=>via this fair women can able to represent herself with his product adding her potentiality 
+=>via this fair women can able to represent herself with his product adding her potentiality.
